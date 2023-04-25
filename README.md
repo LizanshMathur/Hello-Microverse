@@ -14,7 +14,7 @@
 
 # 📖 Hello World <a name="Greet Microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
+> 
 
 Hello World is my first Mini Project at Microverse.
 
