@@ -1,3 +1,6 @@
-.styles{
-    color:aqua;
+.styles {
+  color: aqua;
+}
+#scan-percentage-bar {
+  width: 100%
 }
