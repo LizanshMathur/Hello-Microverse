@@ -105,7 +105,7 @@ open index.html using live server extension.
 
 
 ## 👥 Lizansh Mathur <a name="authors"></a>
-
+- GitHub: [@LizanshMathur](https://github.com/LizanshMathur)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
