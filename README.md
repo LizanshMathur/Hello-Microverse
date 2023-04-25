@@ -34,18 +34,18 @@
 
 # 📖 Hello World <a name="about-project"></a>
 
->This is my project Hello World i created it using HTML, CSS.
+This is my project Hello World i created it using HTML, CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
->HTML
->CSS
+HTML
+CSS
 
 
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+ Describe between 1-3 key features of the application.
 
 Added index.html file
 Added styles.css file
@@ -56,7 +56,7 @@ Added Linters.yml
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Comeing Soon
+ Comeing Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,7 +64,7 @@ Added Linters.yml
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+ Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -92,7 +92,7 @@ Install this project with:
   cd my-project
   npm install
 ```
---->
+
 
 ### Usage
 
@@ -113,11 +113,11 @@ open index.html using live server extension.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+ Describe 1 - 3 features you will add to the project.
 
-- [ ] Add header
-- [ ] Add Footer
-- [ ] Styles
+ [ ] Add header
+ [ ] Add Footer
+ [ ] Styles
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +135,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> if you like my work just give me thumps up.
+ if you like my work just give me thumps up.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +143,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+ Give credit to everyone who inspired your codebase.
 
 I would like to thank you Microverse to give me this project.
 
